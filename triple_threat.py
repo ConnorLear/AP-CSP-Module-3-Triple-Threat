@@ -17,6 +17,7 @@ person = "person"
 
 #Game
 while not person == "casino" and not person == "player":
+    
     #Chooses what person is playing
     person: str = input("Who do you want to play as(Player/Casino): ").lower()
 
@@ -155,3 +156,4 @@ while not person == "casino" and not person == "player":
     #Runs if the person entered the wrong name
     else:
         print("Thats not a person you can choose.")
+
