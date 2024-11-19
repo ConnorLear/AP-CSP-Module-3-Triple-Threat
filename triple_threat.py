@@ -4,7 +4,7 @@ Monarch High School - Boulder Valley School District
 Name - Month Year
 """
 
-
+#Imports random
 import random
 
 #Values for game
